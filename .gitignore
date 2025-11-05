@@ -2,3 +2,21 @@
 /.ipynb_checkpoints
 /__pycache__
 .env
+# Ignore model checkpoints and training artifacts
+resultsBERTPM/
+resultsBERTUG/
+**/checkpoint-*/
+**/trainer_state.json
+**/training_args.bin
+**/optimizer.pt
+**/scheduler.pt
+**/rng_state.pth
+**/config.json
+**/tokenizer_config.json
+**/special_tokens_map.json
+**/vocab.txt
+**/model.safetensors
+
+# Ignore cache directories
+.cache/
+__pycache__/
