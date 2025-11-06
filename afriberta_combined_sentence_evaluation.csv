@@ -1,0 +1,7 @@
+English_Word,African_Sentence,True_Sentiment,Predicted_Sentiment,Probabilities
+slice,sika isilayi selai,positive,neutral,"[[0.10429460555315018, 0.5469469428062439, 0.3487584888935089]]"
+pity,umunyu nceba kwelobohloko,positive,positive,"[[0.1849876344203949, 0.24609088897705078, 0.5689214468002319]]"
+thatch,lowo chok thatch .,negative,positive,"[[0.12489353865385056, 0.37992891669273376, 0.49517756700515747]]"
+cavalry,amasosha agibeleyo amahashe madira a go namela dipere .,negative,positive,"[[0.12777097523212433, 0.25469234585762024, 0.617536723613739]]"
+unnecessarily,ngokungadingekile ngokungeyomfuneko go sa nyakege .,neutral,positive,"[[0.21585029363632202, 0.23675842583179474, 0.5473912358283997]]"
+transparent,-khanyayo kucace pepeneneng,neutral,positive,"[[0.2508353888988495, 0.35235685110092163, 0.3968077600002289]]"
