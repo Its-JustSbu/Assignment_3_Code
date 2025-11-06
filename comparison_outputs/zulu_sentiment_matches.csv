@@ -1,30 +1,64 @@
 Unnamed: 0,CILUBA,French,Score,Sentiment,Nature,English,Zulu,Afrikaans,Sepedi,Xhosa,Shona,word,PMI_Pos,PMI_Neg,PMI_Diff,PMI_Sentiment,Match
+14,bilela,blague,2.0,positive,mot,joke,ihlaya,grappie,metlae,hlekisa,joke,ihlaya,1.0,0.0,1.0,positive,Match
+21,bufuki,creature,0.0,negative,mot,creature,isilwane,skepsel,sebopiwa .,isidalwa,chisikwa,isilwane,0.0,2.0,-2.0,negative,Match
 32,bantu,gens,0.0,neutral,mot,people,abantu,mense,batho,abantu,vanhu,abantu,-1.0,-1.0,0.0,neutral,Match
+54,kuenda,marcher,2.0,neutral,verbe,walk,ukuhamba,om te loop,go sepela .,ukuhamba,kufamba,ukuhamba,0.0,0.0,0.0,neutral,Match
 122,kubuela,entrer,0.0,neutral,verbe,enter,ngena,ingaan,tsena,ngena,pinda,ngena,0.0,0.0,0.0,neutral,Match
+128,lupepela,air,1.0,positive,mot,air,umoya,lug,moya,umoya,mhepo,umoya,1.0,0.0,1.0,positive,Match
+188,kuntekela,observer,1.0,neutral,verbe,observe,phawula,waarneem,lemoga,qaphela,cherechedza,phawula,0.0,0.0,0.0,neutral,Match
+203,dituku,jour,2.0,neutral,mot,day,usuku,dag,letšatši,usuku,zuva,usuku,0.0,0.0,0.0,neutral,Match
+259,mpukampuka,hasard,1.0,positive,mot,chance,ithuba,kans,sebaka,ithuba,mukana,ithuba,1.0,0.0,1.0,positive,Match
+282,diku,famille,1.0,neutral,mot,family,umndeni,familie,lapa,usapho,mhuri,umndeni,0.0,0.0,0.0,neutral,Match
+304,mukaji,femme,1.0,neutral,mot,women,abantu,vroue,basadi,abafazi,vakadzi,abantu,-1.0,-1.0,0.0,neutral,Match
 335,tshisumi,perceverance,0.0,neutral,mot,perception,ukuqonda,persepsie,temogo,umbono,perception,ukuqonda,0.0,0.0,0.0,neutral,Match
 336,kubela,reprimande,-1.0,negative,mot,reprimand,ukujezisa,berisping,kgalemo .,phinda,kutsiura,ukujezisa,0.0,2.0,-2.0,negative,Match
+363,disanka,enthousiasme,1.0,positive,mot,enthusiasm,ugqozi,entoesiasme,mafolofolo,inzondelelo,kushingairira,ugqozi,1.0,0.0,1.0,positive,Match
+400,munya,soleil,1.0,neutral,mot,sun,ilanga,son,letšatši,ilanga,zuva,ilanga,0.0,0.0,0.0,neutral,Match
+429,biheta,résulat,1.0,negative,mot,result,umphumela,resultaat,poelo,isiphumo,mhedzisiro,umphumela,0.0,1.0,-1.0,negative,Match
+433,ludimi,langue,1.0,neutral,mot,language,ulimi,taal,polelo,ulwimi,mutauro,ulimi,0.0,0.0,0.0,neutral,Match
+434,matshi,oreille,1.0,neutral,mot,ear,indlebe,oor,tsebe,indlebe,nzeve,indlebe,0.0,0.0,0.0,neutral,Match
+534,mulume,mari,1.0,neutral,mot,husband,umyeni,man,molekane wa monna,umyeni,murume,umyeni,0.0,0.0,0.0,neutral,Match
+542,nzevu,elephant,1.0,neutral,mot,elephant,indlovu,olifant,tlou,elephants,nzou,indlovu,0.0,0.0,0.0,neutral,Match
+565,makuta,argent,1.0,neutral,mot,money,imali,geld,tšhelete,imali,mari,imali,0.0,0.0,0.0,neutral,Match
+578,mabela,lait,1.0,neutral,mot,milk,ubisi,melk,maswi,ubisi,mukaka,ubisi,0.0,0.0,0.0,neutral,Match
+610,dikumbana,capacité,1.0,positive,mot,ability,ikhono,vermoë,bokgoni,ubuchule,kugona,ikhono,1.0,0.0,1.0,positive,Match
+660,lutambishi,orgueil,1.0,positive,mot,pride,ukuziqhenya,trots,boitumelo,ikratshi,kudada,ukuziqhenya,1.0,0.0,1.0,positive,Match
 661,lutatu,peine,-1.0,negative,mot,penalty,inhlawulo,straf,kotlo .,isohlwayo,chirango,inhlawulo,0.0,2.0,-2.0,negative,Match
+666,muanu,conte,1.0,positive,mot,tale,indaba,verhaal,tale .,tale,ngano,indaba,1.0,0.0,1.0,positive,Match
+748,kalasa,école,1.0,neutral,mot,school,isikole,skool,sekolo,isikolo,chikoro,isikole,0.0,0.0,0.0,neutral,Match
+764,munyinyi,viande,1.0,negative,mot,meat,inyama,vleis,nama,inyama,nyama,inyama,-2.0,1.0,-3.0,negative,Match
+772,kubala,lire,1.0,neutral,verbe,read,funda,lees,bala,funda,verenga,funda,0.0,0.0,0.0,neutral,Match
 821,bulela,verite,0.0,neutral,verbe,truth,iqiniso,waarheid,bonnete,inyani,chokwadi,iqiniso,0.0,0.0,0.0,neutral,Match
 826,mudimu,emploi,0.0,neutral,mot,job,umsebenzi,werk,mošomo,umsebenzi,jobho,umsebenzi,0.0,0.0,0.0,neutral,Match
 832,kuenda,marcher,0.0,neutral,verbe,walk,ukuhamba,te loop,go sepela .,ukuhamba,kufamba,ukuhamba,0.0,0.0,0.0,neutral,Match
 845,makuta,argent,0.0,neutral,mot,money,imali,geld,tšhelete,imali,mari,imali,0.0,0.0,0.0,neutral,Match
+954,kuadamuna,repondre,0.0,positive,verbe,answer,impendulo,antwoord,karabo,impendulo,mhinduro,impendulo,0.0,-1.0,1.0,positive,Match
+1024,bimpabikola,superbe,0.0,positive,mot,stunning,isimanga,verstommend,tumišegago,ukumangalisa,zvinoshamisa,isimanga,1.0,0.0,1.0,positive,Match
 1036,cidicihitakudifuma,resement,0.0,neutral,mot,resement,indawo,resement,sefofane sa go tsošološa .,ukuphindaphinda,kuonekwa,indawo,0.0,0.0,0.0,neutral,Match
 1039,kuibaka,construiction,0.0,neutral,mot,construction,ukwakha,konstruksie,kago,ukwakhiwa,kuvaka,ukwakha,0.0,0.0,0.0,neutral,Match
 1110,ludimi,langue,0.0,neutral,mot,language,ulimi,taal,polelo,ulwimi,mutauro,ulimi,0.0,0.0,0.0,neutral,Match
 1130,ditshi,oreille,0.0,neutral,mot,ear,indlebe,oor,tsebe,indlebe,nzeve,indlebe,0.0,0.0,0.0,neutral,Match
 1293,kuenda,marcher,0.0,neutral,verbe,walk,ukuhamba,om te loop,go sepela .,ukuhamba,kufamba,ukuhamba,0.0,0.0,0.0,neutral,Match
+1329,kulonga,apprendre,1.0,neutral,verbe,learn,funda,leer,ithuta,funda,dzidza,funda,0.0,0.0,0.0,neutral,Match
 1369,kubula,échouer,-1.0,negative,verbe,fail,phutha,misluk,palelwa,usilele,kutadza,phutha,0.0,2.0,-2.0,negative,Match
+1553,baledi,parents,2.0,negative,mot,parents,abazali,ouers,batswadi,abazali,vabereki,abazali,-2.0,1.0,-3.0,negative,Match
+1555,tshifulu,chapeau,2.0,neutral,mot,hat,imbenge,hoed,katiba .,umnqwazi,hat,imbenge,0.0,0.0,0.0,neutral,Match
+1567,dignoka,punition,1.0,negative,mot,punishment,inhlawulo,straf,kotlo .,isohlwayo,kurangwa,inhlawulo,0.0,2.0,-2.0,negative,Match
 1634,machinyi,voiture,0.0,neutral,mot,car,imoto,motor,mmotoro,imoto,mota,imoto,0.0,0.0,0.0,neutral,Match
 1666,matshi,oreille,0.0,neutral,mot,ear,indlebe,oor,tsebe,indlebe,nzeve,indlebe,0.0,0.0,0.0,neutral,Match
 1668,tshifulu,chapeau,0.0,neutral,mot,hat,imbenge,hoed,katiba .,umnqwazi,hat,imbenge,0.0,0.0,0.0,neutral,Match
 1724,tshitalu,cadavre,-2.0,negative,mot,corpse,isidumbu,lyk,setopo .,isidumbu,chitunha,isidumbu,0.0,2.0,-2.0,negative,Match
-1933,ditalala,calme,0.0,neutral,mot,calm,ukuthula,kalm,homola,ukuzola,dzikama,ukuthula,0.0,0.0,0.0,neutral,Match
+1737,nsentedi,sentinelle,1.0,neutral,mot,sentinel,isithunywa,sentinel,sentinel .,i-sitinel,sentinel,isithunywa,0.0,0.0,0.0,neutral,Match
 2098,mudimu,metier,0.0,neutral,verbe,job,umsebenzi,werk,mošomo,umsebenzi,jobho,umsebenzi,0.0,0.0,0.0,neutral,Match
+2140,puhela;pauvreté,indigence,1.0,neutral,mot,destitution,indawo,behoeftigheid,go hloka .,ihlwempu,kupera,indawo,0.0,0.0,0.0,neutral,Match
 2412,diya,départ,0.0,neutral,mot,departure,ukuhamba,vertrek,go tloga,ukumka,kuenda,ukuhamba,0.0,0.0,0.0,neutral,Match
+2435,cipendi,moment,1.0,positive,mot,moment,isikhashana,oomblik,nakwana,umzuzu,nguva,isikhashana,1.0,0.0,1.0,positive,Match
+2512,ngumu,journal,1.0,neutral,mot,newspaper,iphephandaba,koerant,kuranta ya .,iphepha ndaba,pepanhau,iphephandaba,0.0,0.0,0.0,neutral,Match
 2608,cifulu,chapeau,0.0,neutral,mot,hat,imbenge,hoed,katiba .,umnqwazi,hat,imbenge,0.0,0.0,0.0,neutral,Match
 2654,songaluma,garçon,0.0,neutral,mot,boy,umfana,seuntjie,mošemane,inkwenkwe,mukomana,umfana,0.0,0.0,0.0,neutral,Match
 2971,tshiota,famille,0.0,neutral,mot,family,umndeni,familie,lapa,usapho,mhuri,umndeni,0.0,0.0,0.0,neutral,Match
 2993,tshilulu,toile,0.0,neutral,mot,cloth,indwangu,lap,lešela,ilaphu,jira,indwangu,0.0,0.0,0.0,neutral,Match
+3048,tshikenakumona,vision,2.0,positive,mot,vision,umbono,visie,ponelopele,umbono,chiratidzo,umbono,1.0,0.0,1.0,positive,Match
 3229,kajila,sentier,0.0,neutral,mot,path,indlela,pad,tsela,indlela,nzira,indlela,-1.0,-1.0,0.0,neutral,Match
 3230,njila,sentier,0.0,neutral,mot,path,indlela,pad,tsela,indlela,nzira,indlela,-1.0,-1.0,0.0,neutral,Match
 3254,kupuwatalala,silence,0.0,neutral,mot,silence,ukuthula,stilte,setu,cwaka,kunyarara,ukuthula,0.0,0.0,0.0,neutral,Match
@@ -32,6 +66,7 @@ Unnamed: 0,CILUBA,French,Score,Sentiment,Nature,English,Zulu,Afrikaans,Sepedi,Xh
 3309,dipatuka,sortie,0.0,neutral,mot,exit,phuma,verlaat,tšwa,phuma,kubuda,phuma,0.0,0.0,0.0,neutral,Match
 3352,tshintuluntulu,subit,0.0,neutral,mot,subit,indawo,dien in,subit .,isitshixo,subit,indawo,0.0,0.0,0.0,neutral,Match
 3353,tshimpitshimpi,subit,0.0,neutral,mot,subit,indawo,dien in,subit .,isitshixo,subit,indawo,0.0,0.0,0.0,neutral,Match
+3485,cimanyinu,signe,0.0,positive,symbole,sign,bhala,teken,leswao,uphawu,chiratidzo,bhala,0.0,-2.0,2.0,positive,Match
 3488,lubàcì,silence,0.0,neutral,qualité,silence,ukuthula,stilte,setu,cwaka,kunyarara,ukuthula,0.0,0.0,0.0,neutral,Match
 3489,nyàkàtàà,silence,0.0,neutral,qualité,silence,ukuthula,stilte,setu,cwaka,kunyarara,ukuthula,0.0,0.0,0.0,neutral,Match
 3752,kulamikaditambadiamutshi,enter,0.0,neutral,mot,enter,ngena,voer in,tsena,ngena,pinda,ngena,0.0,0.0,0.0,neutral,Match
@@ -39,19 +74,35 @@ Unnamed: 0,CILUBA,French,Score,Sentiment,Nature,English,Zulu,Afrikaans,Sepedi,Xh
 3830,tshibangu,bâton,0.0,neutral,mot,stick,induku,stok,kgomarela,intonga,tsvimbo,induku,0.0,0.0,0.0,neutral,Match
 3844,tatu,père,-1.0,negative,mot,father,uyihlo,vader,papa,utata,baba,uyihlo,0.0,2.0,-2.0,negative,Match
 3958,biakadiyenabibualu,indigence,0.0,neutral,mot,destitution,indawo,behoeftigheid,go hloka .,ihlwempu,kupera,indawo,0.0,0.0,0.0,neutral,Match
+3965,bidibimuenekakumesu,vue,1.0,neutral,mot,view,ukubona,uitsig,bogela,jonga,tarisa,ukubona,0.0,0.0,0.0,neutral,Match
+3995,bilulu,agrès,2.0,neutral,mot,apparatus,amalungiselelo,apparaat,sedirišwa sa go dira .,izixhobo,zvishandiso,amalungiselelo,0.0,0.0,0.0,neutral,Match
+4119,dibala,lecture,2.0,positive,mot,reading,ukufunda,lees,go bala,ukufunda,kuverenga,ukufunda,0.0,-2.0,2.0,positive,Match
+4180,dikonka,question,1.0,neutral,mot,question,buza,vraag,potšišo,umbuzo,mubvunzo,buza,0.0,0.0,0.0,neutral,Match
+4216,dilongolola,préparation,1.0,neutral,verbe,preparation,amalungiselelo,voorbereiding,boitokišo,ukulungiselela,kugadzirira,amalungiselelo,0.0,0.0,0.0,neutral,Match
+4298,disungula,choix,1.0,positive,mot,choice,ukukhetha,keuse,kgetho,ukhetho,sarudzo,ukukhetha,1.0,0.0,1.0,positive,Match
+4303,ditabujadikese,petitefoi,1.0,neutral,mot,littlefaith,kancane,kleingeloof,nuthuthuthuth .,incinci,littlefaith,kancane,0.0,0.0,0.0,neutral,Match
 4326,ditshiu,oreille,0.0,neutral,mot,ear,indlebe,oor,tsebe,indlebe,nzeve,indlebe,0.0,0.0,0.0,neutral,Match
+4513,ndekelu,cesse,-1.0,neutral,mot,cease,phela,ophou,emiša,pheka,regedza,phela,0.0,0.0,0.0,neutral,Match
 4557,dinanga,charité,-1.0,negative,mot,charity,umhawu,liefdadigheid,lerato,ububele,charity,umhawu,0.0,2.0,-2.0,negative,Match
 4640,kabalu,cheval,-1.0,negative,mot,horse,ihhashi,perd,pere,ihashe,bhiza,ihhashi,0.0,2.0,-2.0,negative,Match
 4670,dinyoka,chatiment,-1.0,negative,mot,punishment,inhlawulo,straf,kotlo .,isohlwayo,kurangwa,inhlawulo,0.0,2.0,-2.0,negative,Match
 4805,mpalata,jeton,0.0,neutral,mot,token,ithoni,teken,letshwao la .,ithokheni,chiratidzo,ithoni,0.0,0.0,0.0,neutral,Match
+4826,munayi,joueur,2.0,neutral,mot,player,umdlali,speler,sebapadi .,umdlali,mutambi,umdlali,0.0,0.0,0.0,neutral,Match
 4832,dituku,jour,0.0,neutral,mot,day,usuku,dag,letšatši,usuku,zuva,usuku,0.0,0.0,0.0,neutral,Match
 4996,argent,argent,0.0,neutral,mot,money,imali,geld,tšhelete,imali,mari,imali,0.0,0.0,0.0,neutral,Match
 5072,dikonka,question,0.0,neutral,mot,question,buza,vraag,potšišo,umbuzo,mubvunzo,buza,0.0,0.0,0.0,neutral,Match
 5131,dinyanguka,corruption,-2.0,negative,mot,corruption,ukonakala,korrupsie,bomenetša .,urhwaphilizo,uori,ukonakala,0.0,2.0,-2.0,negative,Match
+5243,tshimanyinu,preuve,1.0,neutral,mot,evidence,ubufakazi,bewyse,bohlatse,ubungqina,uchapupu,ubufakazi,0.0,0.0,0.0,neutral,Match
 5244,tshimanyishilu(ne),marqué,0.0,neutral,mot,brand,phawula,handelsmerk,leswao,uphawu,brand,phawula,0.0,0.0,0.0,neutral,Match
 5253,tshindelele,perplexité,-1.0,negative,mot,perplexity,ukucabanga,verwarring,go gakanega .,ndixakekile,kukanganisa,ukucabanga,0.0,2.0,-2.0,negative,Match
 5371,tshishi,teigne,-1.0,negative,mot,ringworm,inhloso,ringwurm,seboko sa ringworm .,ringworm,ringurm,inhloso,-2.0,0.0,-2.0,negative,Match
+5559,nzubuwakunvuabilumbu,audience,2.0,positive,mot,hearing,ukuzwa,gehoor,go kwa .,ukuva,kunzwa,ukuzwa,1.0,0.0,1.0,positive,Match
+5728,muaba,région,1.0,neutral,mot,region,indawo,streek,selete,umda,dunhu,indawo,0.0,0.0,0.0,neutral,Match
+5748,muanamulume,fils,2.0,neutral,mot,son,umfana,seun,morwa .,unyana,mwanakomana,umfana,0.0,0.0,0.0,neutral,Match
+5787,mudimumukole,labeur,1.0,positive,mot,labor,ukusebenza,arbeid,modiro,umsebenzi,basa,ukusebenza,1.0,0.0,1.0,positive,Match
 5978,muntu,gens,0.0,neutral,mot,people,abantu,mense,batho,abantu,vanhu,abantu,-1.0,-1.0,0.0,neutral,Match
 5999,munyingalala,peiné,-1.0,negative,mot,penalty,inhlawulo,straf,kotlo .,isohlwayo,chirango,inhlawulo,0.0,2.0,-2.0,negative,Match
 6061,mushipianganyi,meurtrier,-2.0,negative,mot,murderer,ukubulala,moordenaar,mmolai .,umbulali,murdeer,ukubulala,0.0,2.0,-2.0,negative,Match
+6133,dijikula,profession,1.0,positive,mot,occupation,ukuhlala,beroep,mošomo,umsebenzi,basa,ukuhlala,1.0,0.0,1.0,positive,Match
+6158,dikuatshisha,profit,1.0,positive,mot,profit,inzuzo,wins,profiti,inzuzo,purofiti,inzuzo,1.0,0.0,1.0,positive,Match
 6488,kulenduka,faillir,-2.0,negative,verbe,fail,phutha,misluk,palelwa,usilele,kutadza,phutha,0.0,2.0,-2.0,negative,Match
